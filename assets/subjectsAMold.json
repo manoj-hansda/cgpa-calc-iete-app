@@ -1,0 +1,165 @@
+{
+    "Theory": [
+        {
+            "code": "51",
+            "name": "Engineering Mathematics I"
+        },
+        {
+            "code": "52",
+            "name": "C & Data Structures"
+        },
+        {
+            "code": "53",
+            "name": "Electronic Devices & Circuits"
+        },
+        {
+            "code": "54",
+            "name": "Linear ICs & Digital Electronics"
+        },
+        {
+            "code": "55",
+            "name_ET": "Principles of Electrical Engineering",
+            "name_CI": "Object Oriented Programming with C++"
+        },
+        {
+            "code": "56",
+            "name": "Engineering Mathematics II"
+        },
+        {
+            "code": "57",
+            "name": "Signals & Systems"
+        },
+        {
+            "code": "58",
+            "name_ET": "Materials & Processes",
+            "name_CI": "Computer Organization"
+        },
+        {
+            "code": "59",
+            "name_ET": "Circuit Theory & Design",
+            "name_CI": "Operating Systems & Systems Software"
+        },
+        {
+            "code": "60",
+            "name_ET": "Instrumentation & Measurement",
+            "name_CI": "Computer Graphics"
+        },
+        {
+            "code": "61",
+            "name_ET": "Control Engineering",
+            "name_CI": "Database Management Systems"
+        },
+        {
+            "code": "62",
+            "name": "Operations Research & Engineering Management"
+        },
+        {
+            "code": "63",
+            "name_ET": "Electromagnetics & Radiation System",
+            "name_CI": "Software Engineering"
+        },
+        {
+            "code": "64",
+            "name_ET": "Telecommunication Switching Systems",
+            "name_CI": "Design & Analysis of Algorithms"
+        },
+        {
+            "code": "65",
+            "name_ET": "Analog Communications",
+            "name_CS": "Discrete Structures",
+            "name_IT": "Multimedia Systems"
+        },
+        {
+            "code": "66",
+            "name": "Microprocessor & Microcontrollers"
+        },
+        {
+            "code": "67",
+            "name_ET": "Digital Communications",
+            "name_CI": "Data Communication & Computer Networks"
+        },
+        {
+            "code": "68",
+            "name_ET": "Embedded Systems Design",
+            "name_CS": "Finite Automata & Formula Languages",
+            "name_IT": "Java & Web Programming"
+        }
+    ],
+    "Electives": [
+        {
+            "code": "71",
+            "name_ET": "Data Communication & Computer Networks",
+            "name_CI": "Unix Systems Programs"
+        },
+        {
+            "code": "72",
+            "name_ET": "Microwave Theory & Techniques",
+            "name_CI": "Linux Internals"
+        },
+        {
+            "code": "73",
+            "name_ET": "Information Theory & Coding",
+            "name_CI": "C #  and .Net"
+        },
+        {
+            "code": "74",
+            "name_ET": "VLSI Design",
+            "name_CI": "Artificial Intelligence & Neural Networks"
+        },
+        {
+            "code": "75",
+            "name_ET": "Optoelectronics & Communication",
+            "name_CI": "Internet Applications"
+        },
+        {
+            "code": "76",
+            "name_ET": "Wireless & Mobile Communications",
+            "name_CI": "Cryptography & Network Security"
+        },
+        {
+            "code": "77",
+            "name_ET": "DSP",
+            "name_CS": "DSP",
+            "name_IT": "e-Commerce"
+        },
+        {
+            "code": "78",
+            "name_ET": "Radar & Navigational Aids",
+            "name_CS": "Advanced Microprocessors",
+            "name_IT": "Data Mining & Warehousing"
+        }
+    ],
+    "Labs": [
+        {
+            "code": "91",
+            "name_ET": "Analog Electronics Lab",
+            "name_CI": "Data Structures with C & C++ Lab"
+        },
+        {
+            "code": "92",
+            "name_ET": "Digital Electronics Lab",
+            "name_CI": "DBMS Lab"
+        },
+        {
+            "code": "93",
+            "name_ET": "uP & C Programming Lab",
+            "name_CI": "Analysis & Design of Algorithms Lab"
+        },
+        {
+            "code": "94",
+            "name_ET": "Analog & Digital Communications Lab",
+            "name_CS": "µP & µC Lab",
+            "name_IT": "Java & Web Programming Lab"
+        }
+    ],
+    "Projects": [
+        {
+            "code": "69",
+            "name": "Project Work"
+        },
+        {
+            "code": "70",
+            "name": "Seminar"
+        }
+    ]
+}

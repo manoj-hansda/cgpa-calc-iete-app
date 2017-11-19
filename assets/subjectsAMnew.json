@@ -1,0 +1,199 @@
+{
+    "Theory": [
+        {
+            "code": "101",
+            "name": "Engineering Mathematics I"
+        },
+        {
+            "code": "102",
+            "name": "Computer Concepts & C Programming"
+        },
+        {
+            "code": "103",
+            "name_ET": "Electronic Devices & Circuits",
+            "name_CI": "Analog & Digital Electronics"
+        },
+        {
+            "code": "104",
+            "name_ET": "Linear ICs & Digital Electronics",
+            "name_CI": "Data Structures with C & C++"
+        },
+        {
+            "code": "105",
+            "name_ET": "Principles of Electrical Engineering",
+            "name_CI": "Object Oriented Programming with C++"
+        },
+        {
+            "code": "106",
+            "name_ET": "Materials & Processes",
+            "name_CI": "Computer Organization"
+        },
+        {
+            "code": "107",
+            "name": "Engineering Mathematics II"
+        },
+        {
+            "code": "108",
+            "name": "Microprocessoras & Microcontrollers"
+        },
+        {
+            "code": "109",
+            "name_ET": "Control Engineering",
+            "name_CI": "Unix & Shell Programming"
+        },
+        {
+            "code": "110",
+            "name_ET": "Circuit Theory & Design",
+            "name_CI": "Operating Systems & Systems Software"
+        },
+        {
+            "code": "111",
+            "name_ET": "Instrumentation & Measurement",
+            "name_CI": "Computer Graphics & Visualization"
+        },
+        {
+            "code": "112",
+            "name_ET": "Signals & Systems",
+            "name_CI": "Database Management Systems"
+        },
+        {
+            "code": "113",
+            "name": "Operations Research & Engineering Management"
+        },
+        {
+            "code": "114",
+            "name_ET": "Electromagnetics & Radiation System",
+            "name_CI": "Software Engineering"
+        },
+        {
+            "code": "115",
+            "name_ET": "Telecommunication Switching Systems",
+            "name_CI": "Design & Analysis of Algorithms"
+        },
+        {
+            "code": "116",
+            "name_ET": "Analog Communications",
+            "name_CS": "Discrete Structures",
+            "name_IT": "Multimedia Systems"
+        },
+        {
+            "code": "117",
+            "name_ET": "Embedded Systems Design",
+            "name_CI": "Linux Internals"
+        },
+        {
+            "code": "118",
+            "name_ET": "Digital Communications",
+            "name_CI": "Software Architecture"
+        },
+        {
+            "code": "119",
+            "name": "Data Communication & Computer Networks"
+        },
+        {
+            "code": "120",
+            "name_ET": "Microwave Theory & Techniques",
+            "name_CS": "Finite Automata & Formula Languages",
+            "name_IT": "Java & Web Programming"
+        }
+    ],
+    "Electives": [
+        {
+            "code": "121",
+            "name_ET": "Digital Signal Processing",
+            "name_CI": "C#  and .Net"
+        },
+        {
+            "code": "122",
+            "name_EC": "VLSI Design",
+            "name_IT": "Data Mining & Warehousing"
+        },
+        {
+            "code": "123",
+            "name_ET": "Power Electronics",
+            "name_CI": "Artificial Intelligence & Neural Networks"
+        },
+        {
+            "code": "124",
+            "name_ET": "Operating Systems",
+            "name_CI": "Unix Systems Programs"
+        },
+        {
+            "code": "125",
+            "name_ET": "Information Theory & Coding",
+            "name_CI": "Software Testing"
+        },
+        {
+            "code": "126",
+            "name_ET": "Radar & Navigational Aids",
+            "name_CI": "Mobile Application Development"
+        },
+        {
+            "code": "127",
+            "name_EC": "Wireless & Mobile Communications",
+            "name_IT": "e-Commerce"
+        },
+        {
+            "code": "128",
+            "name": "Internet Applications"
+        },
+        {
+            "code": "129",
+            "name": "Cyber Crimes & IPR"
+        },
+        {
+            "code": "130",
+            "name_ET": "Optoelectronics & Communication",
+            "name_CI": "Compiler Design"
+        },
+        {
+            "code": "131",
+            "name_ET": "Advanced Communication Systems",
+            "name_CI": "Cloud Computing"
+        },
+        {
+            "code": "132",
+            "name_ET": "Multimedia Systems",
+            "name_CI": "Cryptography & Network Security"
+        },
+        {
+            "code": "133",
+            "name_ET": "DSP Algorithms and Architecture",
+            "name_CS": "Advanced Microprocessors",
+            "name_IT": "System Modelling & Simulation"
+        }
+    ],
+    "Labs": [
+        {
+            "code": "141",
+            "name_ET": "Analog Electronics Lab",
+            "name_CI": "Data Structures with C & C++lab"
+        },
+        {
+            "code": "142",
+            "name_ET": "Digital Electronics Lab",
+            "name_CI": "DBMS Lab"
+        },
+        {
+            "code": "143",
+            "name_ET": "uP & C Programming Lab",
+            "name_CI": "Analysis & Design of Algorithms Lab"
+        },
+        {
+            "code": "144",
+            "name_ET": "Analog & Digital Communications Lab",
+            "name_CS": "µP & µC Lab",
+            "name_IT": "Java & Web Programming Lab"
+        }
+    ],
+    "Projects": [
+        {
+            "code": "135",
+            "name": "Project Work"
+        },
+        {
+            "code": "136",
+            "name": "Seminar"
+        }
+    ]
+}

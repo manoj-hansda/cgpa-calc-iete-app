@@ -1,0 +1,128 @@
+{
+    "Theory": [
+        {
+            "code": "51",
+            "name": "Engineering Mathematics I"
+        },
+        {
+            "code": "52",
+            "name": "Fundamentals of Electrical & Electronics"
+        },
+        {
+            "code": "53",
+            "name": "Computer Fundamentals & C Programming"
+        },
+        {
+            "code": "54",
+            "name_ET": "Engineering Materials",
+            "name_CS": "Data Structures"
+        },
+        {
+            "code": "55",
+            "name": "Engineering Mathematics II"
+        },
+        {
+            "code": "56",
+            "name_ET": "Analog Electronics",
+            "name_CS": "Object Oriented Programming with C++"
+        },
+        {
+            "code": "57",
+            "name_ET": "Networks & Transmission Lines",
+            "name_CS": "Computer Organization"
+        },
+        {
+            "code": "58",
+            "name": "Logic Design"
+        },
+        {
+            "code": "59",
+            "name_ET": "Electronic Instrumentation & Measurements",
+            "name_CS": "Analysis & Design of Information Systems"
+        },
+        {
+            "code": "60",
+            "name_ET": "Microprocessor & Microcontrollers",
+            "name_CS": "Java & Web Programming"
+        },
+        {
+            "code": "61",
+            "name_ET": "Analog Communications",
+            "name_CS": "Operating Systems & Systems Software"
+        },
+        {
+            "code": "62",
+            "name_ET": "Telecommunication Switching Systems",
+            "name_CS": "Database Management Systems"
+        },
+        {
+            "code": "63",
+            "name_ET": "Digital Communications",
+            "name_CS": "Data Communication & Networks"
+        }
+    ],
+    "Electives": [
+        {
+            "code": "65",
+            "name_ET": "Control Engineering",
+            "name_CS": "Software Engineering"
+        },
+        {
+            "code": "66",
+            "name_ET": "Wireless & Mobile Communications",
+            "name_CS": "Computer Graphics"
+        },
+        {
+            "code": "67",
+            "name": "Embedded Systems"
+        },
+        {
+            "code": "68",
+            "name_ET": "Television Engineering",
+            "name_CS": "Microprocessors & Microcontrollers"
+        },
+        {
+            "code": "69",
+            "name_ET": "Data Communication & Computer Networks",
+            "name_CS": "C#  and .Net"
+        },
+        {
+            "code": "70",
+            "name_ET": "Object Oriented Programming with C++",
+            "name_CS": "Network Management"
+        },
+        {
+            "code": "71",
+            "name_ET": "Power Electronics",
+            "name_CS": "Internet Applications"
+        }
+    ],
+    "Labs": [
+        {
+            "code": "91",
+            "name_ET": "C Programming Lab",
+            "name_CS": "C & Data Structures Lab"
+        },
+        {
+            "code": "92",
+            "name_ET": "Analog Electronics Lab",
+            "name_CS": "OOPS Lab"
+        },
+        {
+            "code": "93",
+            "name_ET": "Logic Design Lab",
+            "name_CS": "Java & Web Programming Lab"
+        },
+        {
+            "code": "94",
+            "name_ET": "Analog & Digital Communications Lab",
+            "name_CS": "DBMS Lab"
+        }
+    ],
+    "Projects": [
+        {
+            "code": "64",
+            "name": "Project Work"
+        }
+    ]
+}

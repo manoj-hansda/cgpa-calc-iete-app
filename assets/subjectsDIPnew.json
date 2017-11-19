@@ -1,0 +1,147 @@
+{
+    "Theory": [
+        {
+            "code": "101",
+            "name": "Engineering Mathematics I"
+        },
+        {
+            "code": "102",
+            "name": "Fundamentals of Electrical & Electronics"
+        },
+        {
+            "code": "103",
+            "name": "Computer Fundamentals & C Programming"
+        },
+        {
+            "code": "104",
+            "name_ET": "Electronic Engineering Materials",
+            "name_CS": "Data Structures"
+        },
+        {
+            "code": "105",
+            "name": "Engineering Mathematics II"
+        },
+        {
+            "code": "106",
+            "name_ET": "Analog Electronics",
+            "name_CS": "Object Oriented Programming with C++"
+        },
+        {
+            "code": "107",
+            "name_ET": "Networks & Transmission Lines",
+            "name_CS": "Computer Organization"
+        },
+        {
+            "code": "108",
+            "name": "Logic Design"
+        },
+        {
+            "code": "109",
+            "name_ET": "Electronic Instrumentation & Measurements",
+            "name_CS": "Analysis & Design of Information Systems"
+        },
+        {
+            "code": "110",
+            "name_ET": "Power Electronics",
+            "name_CS": "Operating Systems & Systems Software"
+        },
+        {
+            "code": "111",
+            "name": "Microprocessor & Microcontrollers"
+        },
+        {
+            "code": "112",
+            "name_ET": "Analog Communications",
+            "name_CS": "Database Management Systems"
+        },
+        {
+            "code": "113",
+            "name_ET": "Telecommunication Switching Systems",
+            "name_CS": "Java & Web Programming"
+        },
+        {
+            "code": "114",
+            "name_ET": "Digital Communications",
+            "name_CS": "Data Communication & Networks"
+        },
+        {
+            "code": "115",
+            "name_ET": "Embedded Systems",
+            "name_CS": "Software Engineering"
+        }
+    ],
+    "Electives": [
+        {
+            "code": "116",
+            "name_ET": "Wireless & Mobile Communications",
+            "name_CS": "Computer Graphics & Visualization"
+        },
+        {
+            "code": "117",
+            "name_ET": "Television Engineering and Broadcasting",
+            "name_CS": "C# and .Net"
+        },
+        {
+            "code": "118",
+            "name_ET": "Data Communication & Computer Networks",
+            "name_CS": "Internet Applications"
+        },
+        {
+            "code": "119",
+            "name_ET": "Advanced Communication Systems",
+            "name_CS": "Cloud Computing"
+        },
+        {
+            "code": "120",
+            "name_ET": "Control Engineering",
+            "name_CS": "Software Testing"
+        },
+        {
+            "code": "121",
+            "name_ET": "Verilog HDL and VLSI Design",
+            "name_CS": "Embedded Systems"
+        },
+        {
+            "code": "122",
+            "name_ET": "Object Oriented Programming with C++",
+            "name_CS": "Mobile Application Development"
+        },
+        {
+            "code": "123",
+            "name_ET": "Java and Web Programming",
+            "name_CS": "Network Management"
+        }
+    ],
+    "Labs": [
+        {
+            "code": "141",
+            "name_ET": "C Programming Lab",
+            "name_CS": "C & Data Structures Lab"
+        },
+        {
+            "code": "142",
+            "name_ET": "Analog Electronics Lab",
+            "name_CS": "OOPS Lab"
+        },
+        {
+            "code": "143",
+            "name_ET": "Logic Design Lab",
+            "name_CS": "Java & Web Programming Lab"
+        },
+        {
+            "code": "144",
+            "name_ET": "Analog & Digital Communications Lab",
+            "name_CS": "DBMS Lab"
+        }
+    ],
+    "Projects": [
+        {
+            "code": "135",
+            "name": "Project Work"
+        },
+        {
+            "code": "136",
+            "name": "Seminar"
+        }
+    ]
+}
